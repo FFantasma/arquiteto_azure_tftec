@@ -1,0 +1,1 @@
+# semana_arquiteto_azure_tftec
